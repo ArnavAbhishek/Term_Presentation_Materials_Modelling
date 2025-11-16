@@ -1,12 +1,12 @@
 # Modified Monte Carlo Potts Algorithm — Project Structure
 
-- graph.png
+- grain_growth.png
     └── Grain-growth visualization (quantized grain size)
 
 - main.py
     └── Helper utilities and shared functions
 
-- simulator.py
+- grain_growth_simulator.py
     └── Core implementation of the modified MC Potts algorithm
 
 - graph2.png
