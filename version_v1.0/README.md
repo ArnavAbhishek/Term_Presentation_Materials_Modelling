@@ -1,1 +1,1 @@
-Haan maine hi code kiya hai !!!
+Modified Monte Carlo Potts algorithm implementation
